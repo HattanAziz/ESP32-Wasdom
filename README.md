@@ -1,4 +1,4 @@
-# ESP32-
+# ESP32
 How to install Arduino IDE And Run the ESP32 . 
 
 step 1: First of all you should download " Arduino IDE software " from Arduino official website: https://www.arduino.cc/en/software
