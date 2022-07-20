@@ -27,3 +27,5 @@ Step 6: Now we should select our port, COM3 ,  Note: Sometimes the PORT will not
 Step 7: Ready to run
 
 ![Screenshot 2022-07-19 162103](https://user-images.githubusercontent.com/109594520/179760750-c58e96f0-97ec-4274-a262-c8c1a6c7df5c.png)
+![image](https://user-images.githubusercontent.com/109594520/179979762-d4d2ce36-6d29-461d-ad4d-a1358f35cd56.png)
+
