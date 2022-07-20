@@ -17,7 +17,10 @@ step 5: Now click on tools>Arduino board>ESP32 Arduino and choose WEMOS D1 MINI 
 
 ![image](https://user-images.githubusercontent.com/109594520/179759698-64731bf9-5c02-4573-9530-df05cf45152e.png)
 
-Step 6: Now we should select our port, COM3.
+Step 6: Now we should select our port, COM3 ,  Note: Sometimes the PORT will not work to fix it just Download the file in the attachments 
+
+[ActiveUSBCOM_2204_E.zip](https://github.com/HattanAziz/ESP32-Wasdom/files/9149504/ActiveUSBCOM_2204_E.zip)
+
 
 ![image](https://user-images.githubusercontent.com/109594520/179760510-913ff229-325e-4787-848d-7942ab3d5498.png)
 
