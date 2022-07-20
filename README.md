@@ -29,3 +29,6 @@ Step 7: Ready to run
 ![Screenshot 2022-07-19 162103](https://user-images.githubusercontent.com/109594520/179760750-c58e96f0-97ec-4274-a262-c8c1a6c7df5c.png)
 ![image](https://user-images.githubusercontent.com/109594520/179979762-d4d2ce36-6d29-461d-ad4d-a1358f35cd56.png)
 
+NOTE : I USE https://wokwi.com/projects/new/esp32 TO MAKE SURE THE CODE WORK
+
+![image](https://user-images.githubusercontent.com/109594520/179986911-8cda1aaf-c334-477a-a0c0-86e0ae6b23fd.png)
